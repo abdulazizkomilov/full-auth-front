@@ -71,4 +71,5 @@ export const {
 	useSocialAuthenticateMutation,
 	useLoginMutation,
 	useRegisterMutation,
+	useLogoutMutation,
 } = authApiSlice;
